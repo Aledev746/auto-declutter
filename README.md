@@ -93,6 +93,7 @@ src/
 Cargo.toml        # Package metadata and Rust configuration
 Cargo.lock        # Locked dependency metadata
 .gitignore        # Ignores Cargo build artifacts
+LICENSE           # MIT License
 ```
 
 ## Development
@@ -121,4 +122,4 @@ Potential improvements include:
 
 ## License
 
-No license has been specified for this repository yet. Until a license is added, the project remains fully copyrighted by its author.
+This project is licensed under the [MIT License](LICENSE).
